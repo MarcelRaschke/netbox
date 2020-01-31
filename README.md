@@ -21,7 +21,7 @@ NetBox is built against both Python 2.7 and 3.5. Python 3.5 or higher is strongl
 |             | status |
 |-------------|------------|
 | **master** | [![Build Status](https://travis-ci.org/digitalocean/netbox.svg?branch=master)](https://travis-ci.org/digitalocean/netbox) |
-| **develop** | [![Build Status](https://travis-ci.org/digitalocean/netbox.svg?branch=develop)](https://travis-ci.org/digitalocean/netbox) |
+| **develop** | [![Build Status](https://travis-ci.org/digitalocean/netbox.svg?branch=develop)](https://travis-ci.org/digitalocean/netbox) [![Greenkeeper badge](https://badges.greenkeeper.io/MarcelRaschke/netbox.svg)](https://greenkeeper.io/) |
 
 ## Screenshots
 
