@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "netbox/project-static/jquery-ui-1.12.1/package.json"
+      ]
+    }
+  }
+}
