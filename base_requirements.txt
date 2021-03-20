@@ -10,7 +10,7 @@ django-taggit
 django-taggit-serializer
 django-timezone-field
 # https://github.com/encode/django-rest-framework/issues/6053
-djangorestframework==3.8.1
+djangorestframework==3.11.2
 drf-yasg[validation]
 graphviz
 Markdown
